@@ -172,7 +172,7 @@
     "mark.js": "^8.11.1",
     "mitt": "^3.0.1",
     "monaco-editor": "0.55.1",
-    "mpegts.js": "^1.8.0",
+    "mpegts.js": "github:OpenListTeam/mpegts.js#1e51e0f6f918cf08e05dfae9c7bfcf658d6b4ac2",
     "mysql2": "^3.11.0",
     "openpgp": "^6.3.1",
     "otplib": "^12.0.1",
